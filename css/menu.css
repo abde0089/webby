@@ -1,0 +1,43 @@
+#menu-header{
+	text-align: center;
+}
+.menu-block .item {
+    width: 90%;
+    padding: 2px;
+    border-bottom: 1px solid #f03063;
+    margin-bottom: 10px;
+    position: relative;
+}
+.menu-block .item h4 {
+    display: block;
+    font-family: Helvetica, sans-serif, 'Marmelad', Arial, ;
+    font-size: 1em;
+    color: bisque;
+    margin-bottom: 10px;
+    width: 65%;
+}
+
+#app{
+	margin: 0 auto;
+}
+.dishname{
+	width: 80%;
+	float: left;
+	text-transform: none !important;
+}
+
+.price{
+	width: 19%;
+	float: right;
+	display: inline-block;
+	
+}
+.discription p{
+/*	margin: 0 auto;*/
+	text-align: justify;
+	width: 95%;
+}
+.centertitle{
+	margin: 0 auto;
+	text-align: center;
+}
